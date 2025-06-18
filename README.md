@@ -14,3 +14,4 @@ i completed the task 4 called,cloud security and implementation in amazon web se
 this provides security for our account in amazon web services.
 screenshorts of this task:
 ![Image](https://github.com/user-attachments/assets/fe486069-a07a-45c4-9f2e-06ea9b23752b)
+![Image](https://github.com/user-attachments/assets/2014d9b2-37ce-4102-848d-c3032c1094e2)
